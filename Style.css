@@ -12,7 +12,12 @@ background-color:#fdfde4;
 	height:100px;
 	color:white;
 	text-align: center;
-	width: 100%
+	width: 95%;
+	border-radius: 50px 50px 50px 50px;
+	display: flex;
+	margin: 10px auto;
+    	justify-content: center;
+    	align-items: center;
 }
 
 
