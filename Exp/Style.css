@@ -1,0 +1,55 @@
+body{
+background-color:#fdfde4;
+
+}
+.cuerpo{
+	background-color:;
+	
+	
+}
+.Materia{
+	background-color:#F25D38;
+	height:100px;
+	color:white;
+	text-align: center;
+	width: 100%
+}
+
+
+
+
+#MFisica{
+	background-color:#F25D38;
+
+}
+#MFisica:hover{
+	background-color:#F47D5F;
+
+}
+
+#MAnalisis{
+	background-color:#009BCE;
+
+}
+#MAnalisis:hover{
+	background-color:#32afd7;
+
+}
+
+#MParadigmas{
+	background-color:#C83AE3;
+
+}
+#MParadigmas:hover{
+	background-color:#d875eb;
+
+}
+
+#MDibujo{
+	background-color:#00FA9A;
+
+}
+#MDibujo:hover{
+	background-color:#66fcc2;
+
+}
